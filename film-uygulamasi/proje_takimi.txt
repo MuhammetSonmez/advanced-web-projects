@@ -1,0 +1,11 @@
+Muhammet Sönmez 1210505036
+Alınan görev: view'ların ve component'lerin oluşturulması, router yapısının oluşturulması
+
+Mehmet Emin Barış 1210505044
+Alınan görev: view'ların ve component'lerin oluşturulması, css ve fotoğrafların eklenmesi
+
+Şule Altuntaş 1210505043
+Alınan görev: view'ların ve component'lerin oluşturulması, data json'ın oluşturulması
+
+
+Not: Ödevin çoğunluğu ekip üyeleri ile yüz yüze yapıldığı için genel olarak herkes yakın görevler almıştır.

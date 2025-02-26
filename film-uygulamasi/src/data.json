@@ -1,0 +1,469 @@
+{
+  "movies": [
+    {
+      "name": "Star Wars",
+      "comments": [
+        { "user": "Luke Skywalker", "text": "Efsanevi bir hikaye, zamanı aşan bir destan!" },
+        { "user": "Leia Organa", "text": "Güç bu kişiyle güçlü!" },
+        {"user":"Muhammet Sönmez", "text": "Olum adam driver'ı neden adam sürücü olarak yazdınız dalga mı geçiyorsunuz bizimle."}
+      ],
+      "score": "9.5",
+      "slug": "star-wars",
+      "image": "star-wars.jpg",
+      "id": 1,
+      "description": "Jedi ve Sith arasındaki savaş üzerine odaklanan, her şeyin başlangıcını temsil eden epik bir uzay operası. Star Wars, George Lucas tarafından yaratılan bir evren olup, uzayda geçen bu seride kahramanlar, kötüler, galaktik savaşlar ve güçlü bir mitoloji bulunmaktadır. İlk olarak 1977'de gösterime giren film, popüler kültürde büyük bir etki yaratmış ve birçok devam filmi, diziler ve yan hikayelerle genişlemiştir.",
+
+      "actors": [
+        {
+          "name": "Adam Sürücü",
+          "slug": "adam-driver",
+          "image": "adam-sürücü.jpg",
+          "description": "Adam sürücü işte ya"
+        },
+        {
+          "name": "Mark Hamill",
+          "slug": "mark-hamill",
+          "image": "mark-hamill.jpg",
+          "description": "Mark Hamill, Star Wars serisinde Luke Skywalker rolüyle tanınmaktadır. İlk filmdeki genç Jedi olarak izleyicilerin kalbini kazanmış, karakteri zamanla daha karmaşık ve derin hale gelmiştir. Hamill, özellikle Jedi Ustası olarak eğitim aldığı ve Darth Vader ile karşı karşıya geldiği sahnelerdeki performansıyla öne çıkmaktadır. Kendisinin aktörlük kariyeri, televizyon dizileri ve çeşitli seslendirme projeleri ile de zenginleşmiştir."
+        },
+        {
+          "name": "Carrie Fisher",
+          "slug": "carrie-fisher",
+          "image": "carrie-fisher.jpg",
+          "description": "Carrie Fisher, Star Wars serisinde Prenses Leia olarak hafızalarda yer etmiştir. Leia, cesur bir lider olarak İsyan İttifakı'nın savaşında önemli bir rol oynamış, karakterinin güçlü duruşu ve zeka dolu replikleriyle izleyicilerin beğenisini kazanmıştır. Fisher, yalnızca oyunculuk kariyeriyle değil, aynı zamanda yazar kimliğiyle de tanınmıştır; kişisel yaşamı ve mücadeleleri üzerine yazdığı kitaplarla da dikkat çekmiştir."
+        },
+        {
+          "name": "Harrison Ford",
+          "slug": "harrison-ford",
+          "image": "harrison-ford.jpg",
+          "description": "Harrison Ford, Han Solo karakteri ile Star Wars evreninin en ikonik figürlerinden biridir. Cesur, karizmatik ve biraz da asi bir uzay kaçakçısı olan Han Solo, serinin hayranları tarafından çok sevilmiştir. Ford'un performansı, karakterin maceracı ruhunu ve derinliğini mükemmel bir şekilde yansıtmaktadır."
+        },
+        {
+          "name": "Daisy Ridley",
+          "slug": "daisy-ridley",
+          "image": "daisy-ridley.jpg",
+          "description": "Daisy Ridley, Star Wars serisinde Rey karakterini canlandırarak büyük bir çıkış yapmıştır. Rey, Güçle olan bağlantısını keşfederken güçlü bir kadın karakter olarak ön plana çıkmaktadır. Ridley, oyunculuk kariyerine genç yaşta başlamış ve birçok projede yer almıştır."
+        }
+      ]
+    },
+    {
+      "name": "The Matrix",
+      "comments": [
+        { "user": "Neo", "text": "Gerçekle hayal arasındaki ince çizgi!" },
+        { "user": "Trinity", "text": "Bir bilim kurgu şaheseri!" }
+      ],
+      "score": "9.0",
+      "slug": "the-matrix",
+      "image": "the-matrix.jpg",
+      "id": 2,
+      "description": "The Matrix, gerçeklik ve simülasyon temalarını işleyen, Wachowski Kardeşler tarafından yaratılan ikonik bir bilim kurgu filmidir. 1999 yılında gösterime giren film, insanlığın yapay bir zihin kontrolü altında olduğu bir dünyada, bir grup özgür ruhun mücadelesini anlatır. Neo, simülasyondan uyanan ve gerçek dünyanın ne olduğunu öğrenen genç bir bilgisayar programcısıdır. Film, aksiyon sahneleri, felsefi derinliği ve görsel efektleriyle sinema tarihine damgasını vurmuştur.",
+      "actors": [
+        {
+          "name": "Keanu Reeves",
+          "slug": "keanu-reeves",
+          "image": "keanu-reeves.jpg",
+          "description": "Keanu Reeves, The Matrix serisinde Neo karakterini canlandırmaktadır. 2 Eylül 1964'te Beirut, Lübnan'da doğmuş olan Reeves, filmdeki performansıyla büyük beğeni toplamıştır. Neo'nun gerçeklik arayışındaki yolculuğu, izleyicilere derin bir deneyim sunmaktadır."
+        },
+        {
+          "name": "Carrie-Anne Moss",
+          "slug": "carrie-anne-moss",
+          "image": "carrie-anne-moss.jpg",
+          "description": "Carrie-Anne Moss, Trinity karakteri ile The Matrix serisinin güçlü kadın figürlerinden biridir. 21 Ağustos 1973'te Vancouver, Kanada'da doğmuş olan Moss, dövüş sahneleri ve karakterinin derinliği ile dikkat çekmektedir."
+        },
+        {
+          "name": "Laurence Fishburne",
+          "slug": "laurence-fishburne",
+          "image": "laurence-fishburne.jpg",
+          "description": "Laurence Fishburne, Morpheus karakterini canlandırarak The Matrix'in felsefi derinliğine katkıda bulunmuştur. 30 Temmuz 1961'de Augusta, Georgia, ABD'de doğmuş olan Fishburne, Neo'ya gerçeklik hakkında bilgi veren rehber rolündedir."
+        },
+        {
+          "name": "Hugo Weaving",
+          "slug": "hugo-weaving",
+          "image": "hugo-weaving.jpg",
+          "description": "Hugo Weaving, The Matrix'te kötü karakter Agent Smith'i canlandırmaktadır. 4 Nisan 1960'ta Sydney, Avustralya'da doğmuş olan Weaving, karakterinin soğuk ve hesapçı doğasıyla filmde unutulmaz bir performans sergilemiştir."
+        }
+      ]
+    },
+    {
+    "name": "Inception",
+    "comments": [
+      { "user": "Dom Cobb", "text": "Rüyaların gücünü keşfedin!" },
+      { "user": "Ariadne", "text": "Gerçeklik ve hayal arasındaki sınırları zorlayan bir film!" }
+    ],
+    "score": "9.3",
+    "slug": "inception",
+    "image": "inception.jpg",
+    "id": 3,
+    "description": "Inception, Christopher Nolan'ın yazıp yönettiği, karmaşık bir hikaye yapısına sahip olan bir bilim kurgu filmidir. Film, insanların rüyalarına girerek bilgi çalan ve bunları manipüle eden Dom Cobb'un (Leonardo DiCaprio) hikayesini anlatmaktadır. Rüya içinde rüya konseptiyle, izleyicileri zihinsel bir yolculuğa çıkaran film, görsel efektleri, müziği ve derin temalarıyla dikkat çekmektedir. Rüyaların doğası, bilinçaltı ve gerçeklik sorgulaması üzerine yapılan bu epik film, izleyicilere unutulmaz bir deneyim sunmaktadır.",
+    "actors": [
+      {
+        "name": "Leonardo DiCaprio",
+        "slug": "leonardo-dicaprio",
+        "image": "leonardo-dicaprio.jpg",
+        "description": "Leonardo DiCaprio, Inception filminde Dom Cobb karakterini canlandırmaktadır. 11 Kasım 1974'te Los Angeles, Kaliforniya'da doğmuş olan DiCaprio, karmaşık bir karakterin derinliğini mükemmel bir şekilde yansıtmaktadır."
+      },
+      {
+        "name": "Elliot Page",
+        "slug": "elliot-page",
+        "image": "elliot-page.jpg",
+        "description": "Elliot Page, filmde Ariadne karakterini canlandırmaktadır. 21 Şubat 1987'de Halifax, Nova Scotia, Kanada'da doğmuş olan Page, rüyalarla ilgili mimari tasarımlar yapan bir karakter olarak izleyicilere ilham vermektedir."
+      },
+      {
+        "name": "Joseph Gordon-Levitt",
+        "slug": "joseph-gordon-levitt",
+        "image": "joseph-gordon-levitt.jpg",
+        "description": "Joseph Gordon-Levitt, Inception filminde Arthur karakterini canlandırmaktadır. 17 Şubat 1981'de Los Angeles, Kaliforniya'da doğmuş olan Gordon-Levitt, rüya ekiplerinin en güvenilir üyelerinden biridir."
+      },
+      {
+        "name": "Tom Hardy",
+        "slug": "tom-hardy",
+        "image": "tom-hardy.jpg",
+        "description": "Tom Hardy, Eames karakterini canlandırarak Inception filmine renk katmaktadır. 15 Eylül 1977'de Londra, İngiltere'de doğmuş olan Hardy, karakterinin çekiciliği ve yetenekleriyle dikkat çekmektedir."
+      }
+    ]
+    },
+    {
+      "name": "Interstellar",
+      "comments": [
+        { "user": "Cooper", "text": "Zaman ve uzayın sırlarını keşfetmek harika!" },
+        { "user": "Murph", "text": "Aile ve sevgi üzerine derin bir hikaye!" }
+      ],
+      "score": "9.0",
+      "slug": "interstellar",
+      "image": "interstellar.jpg",
+      "id": 4,
+      "description": "Interstellar, Christopher Nolan'ın yönettiği ve yazdığı, uzayda bir keşif yolculuğunu konu alan bir bilim kurgu filmidir. Film, insanlığın hayatta kalması için alternatif gezegenler arayan bir grup astronotun hikayesini takip eder. Zamanın göreli doğası, uzay ve kara delikler gibi karmaşık bilimsel kavramları ele alan film, görsel efektleri ve müziğiyle izleyiciyi derin bir yolculuğa çıkarır. Aile bağları ve insanlık durumu üzerine yoğunlaşan bu epik film, hem duygusal hem de entelektüel bir deneyim sunmaktadır.",
+      "actors": [
+        {
+          "name": "Matthew McConaughey",
+          "slug": "matthew-mcconaughey",
+          "image": "matthew-mcconaughey.jpg",
+          "description": "Matthew McConaughey, Interstellar filminde Cooper karakterini canlandırmaktadır. 4 Kasım 1969'da Uvalde, Teksas, ABD'de doğmuş olan McConaughey, kararlı ve cesur bir astronotu başarıyla yansıtmaktadır."
+        },
+        {
+          "name": "Anne Hathaway",
+          "slug": "anne-hathaway",
+          "image": "anne-hathaway.jpg",
+          "description": "Anne Hathaway, filmde Dr. Amelia Brand karakterini canlandırmaktadır. 12 Kasım 1982'de Brooklyn, New York, ABD'de doğmuş olan Hathaway, Cooper'ın uzaydaki yolculuğunda kritik bir rol oynamaktadır."
+        },
+        {
+          "name": "Jessica Chastain",
+          "slug": "jessica-chastain",
+          "image": "jessica-chastain.jpg",
+          "description": "Jessica Chastain, Murph karakterini canlandırarak duygusal bir derinlik katmaktadır. 24 Mart 1977'de Sacramento, Kaliforniya'da doğmuş olan Chastain, babasıyla olan ilişkisinin karmaşıklığını etkileyici bir şekilde yansıtmaktadır."
+        },
+        {
+          "name": "Michael Caine",
+          "slug": "michael-caine",
+          "image": "michael-caine.jpg",
+          "description": "Michael Caine, Prof. Brand karakterini canlandırmaktadır. 14 Mart 1933'te Rotherhithe, Londra, İngiltere'de doğmuş olan Caine, filmdeki deneyimli bilim insanı rolüyle dikkat çekmektedir."
+        }
+      ]
+    },
+    {
+      "name": "Labirent",
+      "comments": [
+        { "user": "Mehmet Ali", "text": "Gerçekten heyecan verici bir film!" },
+        { "user": "Elif Yıldız", "text": "Labirentte hayatta kalma mücadelesi çok sürükleyiciydi." }
+      ],
+      "score": "8",
+      "slug": "labirent",
+      "image": "labirent.jpg",
+      "id": 5,
+      "description": "Labirent, gençlerin bir labirentte hayatta kalma mücadelesini konu alan sürükleyici bir bilim kurgu filmidir. Film, Thomas adlı bir gencin, hafızası silinmiş bir şekilde labirentte uyanmasıyla başlar. Thomas, burada diğer gençlerle birlikte labirentten kaçmanın yollarını ararken, labirentteki tehlikeleri ve gizemleri çözmek zorundadır.",
+      "actors": [
+        {
+          "name": "Dylan O'Brien",
+          "slug": "dylan-obrien",
+          "image": "dylan-obrien.jpg",
+          "description": "Dylan O'Brien, 26 Ağustos 1991'de New York'ta doğdu. Thomas karakterini canlandıran O'Brien, genç yaşta tanınmaya başladı. 'The Maze Runner' serisindeki performansıyla büyük beğeni topladı."
+        },
+        {
+          "name": "Kaya Scodelario",
+          "slug": "kaya-scodelario",
+          "image": "kaya-scodelario.jpg",
+          "description": "Kaya Scodelario, 13 Mart 1992'de İngiltere'de doğdu. Labirent serisinde Teresa karakterini canlandıran Scodelario, kariyerine 'Skins' dizisiyle başlamıştır ve birçok başarılı projede yer almıştır."
+        },
+        {
+          "name": "Will Poulter",
+          "slug": "will-poulter",
+          "image": "will-poulter.jpg",
+          "description": "Will Poulter, 28 Ocak 1993'te Londra'da doğmuştur. Labirent filminde Gally karakteriyle dikkat çeken Poulter, 'The Revenant' gibi önemli yapımlarda da rol almıştır."
+        }
+      ]
+    },
+    {
+      "name": "The Godfather",
+      "comments": [
+        { "user": "Michael Corleone", "text": "Aile, her şeyden daha önemlidir." },
+        { "user": "Vito Corleone", "text": "Bir adam, sadece kendi ailesi için yapmadığı hiçbir şeyin anlamı yoktur." }
+      ],
+      "score": "9.2",
+      "slug": "the-godfather",
+      "image": "the-godfather.jpg",
+      "id": 6,
+      "description": "The Godfather, Francis Ford Coppola'nın yönettiği ve Mario Puzo'nun romanından uyarlanan bir suç filmidir. Film, Vito Corleone'nin (Marlon Brando) yönetimindeki Corleone ailesinin hikayesini anlatır. Aile içindeki güç mücadelesi, ihanet ve onur temalarıyla doludur. Vito'nun en küçük oğlu Michael Corleone'nin (Al Pacino) zamanla aile işlerine karışması ve mafya dünyasında yükselişi, izleyiciyi derin bir dramatik yolculuğa çıkarır.",
+      "actors": [
+        {
+          "name": "Marlon Brando",
+          "slug": "marlon-brando",
+          "image": "marlon-brando.jpg",
+          "description": "Marlon Brando, filmde Vito Corleone karakterini canlandırmaktadır. 3 Nisan 1924'te Omaha, Nebraska, ABD'de doğan Brando, sinemanın en etkili oyuncularından biri olarak kabul edilmektedir ve karakterinin derinliğini başarıyla yansıtmaktadır."
+        },
+        {
+          "name": "Al Pacino",
+          "slug": "al-pacino",
+          "image": "al-pacino.jpg",
+          "description": "Al Pacino, Michael Corleone karakterini canlandırarak ailenin geleceğini şekillendirmektedir. 25 Nisan 1940'ta New York, New York, ABD'de doğan Pacino, performansı ile izleyicileri etkilemektedir."
+        },
+        {
+          "name": "James Caan",
+          "slug": "james-caan",
+          "image": "james-caan.jpg",
+          "description": "James Caan, Sonny Corleone karakterini canlandırmaktadır. 26 Mart 1940'ta The Bronx, New York, ABD'de doğan Caan, filmdeki güçlü ve öfkeli karakteriyle dikkat çekmektedir."
+        },
+        {
+          "name": "Robert Duvall",
+          "slug": "robert-duvall",
+          "image": "robert-duvall.jpg",
+          "description": "Robert Duvall, Tom Hagen karakterini canlandırarak ailenin danışmanını oynamaktadır. 5 Ocak 1931'de San Diego, Kaliforniya, ABD'de doğan Duvall, karakterinin zekasını ve sadakatini başarılı bir şekilde yansıtmaktadır."
+        }
+      ]
+    },
+    {
+      "name": "Parasite",
+      "comments": [
+        { "user": "Ki-woo", "text": "Zenginlik ve fakirlik arasındaki sınırları kesen bir hikaye!" },
+        { "user": "Chung-sook", "text": "Gerçekten düşündürücü ve sürükleyici bir film." }
+      ],
+      "score": "8.6",
+      "slug": "parasite",
+      "image": "parasite.jpg",
+      "id": 7,
+      "description": "Parasite, Bong Joon-ho'nun yönettiği ve 2019 Cannes Film Festivali'nde Altın Palmiye ödülünü kazanan bir Güney Kore yapımı drama-thriller filmidir. Film, yoksul bir ailenin, zengin bir aileye sızarak onların yaşam tarzını benimsemesini ve ardından gelişen olayları anlatıyor. İki ailenin sınıf farklarını irdeleyen film, sürükleyici senaryosu ve beklenmedik dönüm noktalarıyla izleyiciyi etkilemektedir.",
+      "actors": [
+        {
+          "name": "Kang-ho Song",
+          "slug": "kang-ho-song",
+          "image": "kang-ho-song.jpg",
+          "description": "Kang-ho Song, filmde Kim Ki-taek karakterini canlandırmaktadır. 17 Ocak 1967'de Busan, Güney Kore'de doğan Song, zengin aileye hizmet eden yoksul babanın derin duygularını başarılı bir şekilde aktarmaktadır."
+        },
+        {
+          "name": "Lee Sun-kyun",
+          "slug": "lee-sun-kyun",
+          "image": "lee-sun-kyun.jpg",
+          "description": "Lee Sun-kyun, zengin aile reisi Park Dong-ik karakterini canlandırmaktadır. 2 Mart 1975'te Seul, Güney Kore'de doğan Sun-kyun, filmdeki güç ve zenginliği temsil eden bir performans sergilemektedir."
+        },
+        {
+          "name": "Cho Yeo-jeong",
+          "slug": "cho-yeo-jeong",
+          "image": "cho-yeo-jeong.jpg",
+          "description": "Cho Yeo-jeong, Park Yeon-kyo karakterini canlandırarak zengin ailedeki anneleri oynamaktadır. 6 Şubat 1981'de Seul, Güney Kore'de doğan Yeo-jeong, masum ve saflıkla dolu bir karakteri başarıyla yansıtmaktadır."
+        },
+        {
+          "name": "Choi Woo-shik",
+          "slug": "choi-woo-shik",
+          "image": "choi-woo-shik.jpg",
+          "description": "Choi Woo-shik, Kim Ki-woo karakterini canlandırarak ailenin oğlu rolündedir. 26 Mart 1990'da Seul, Güney Kore'de doğan Woo-shik, hırsı ve zekası ile ailenin zenginliğe ulaşma çabasını gösteriyor."
+        }
+      ]
+    },
+    {
+      "name": "The Platform",
+      "comments": [
+        { "user": "Goreng", "text": "Gerçekten düşündürücü bir film!" },
+        { "user": "Trimagasi", "text": "Sosyal adaletin çarpıcı bir eleştirisi." }
+      ],
+      "score": "7.0",
+      "slug": "the-platform",
+      "image": "the-platform.jpg",
+      "id": 8,
+      "description": "The Platform, Galder Gaztelu-Urrutia'nın yönettiği ve 2019 yılında vizyona giren bir İspanyol bilim kurgu-korku filmidir. Film, dikey bir hapishanede geçen bir hikayeyi anlatmaktadır; burada yiyecekler yukarıdan aşağıya doğru bir platformda indirilir. Her kat, yiyecekleri almak için bir süreye sahiptir, bu da insanların hayatta kalma mücadelesini ve sosyal sınıf farklılıklarını gözler önüne serer. Düşünsel derinliği ve toplumsal eleştirisiyle dikkat çeken bu film, izleyicilere güçlü bir deneyim sunmaktadır.",
+      "actors": [
+        {
+          "name": "Iván Massagué",
+          "slug": "ivan-massague",
+          "image": "ivan-massague.jpg",
+          "description": "Iván Massagué, filmde Goreng karakterini canlandırmaktadır. 22 Ekim 1981'de Barcelona, İspanya'da doğan Massagué, çeşitli film ve dizilerdeki performanslarıyla tanınmaktadır."
+        },
+        {
+          "name": "Zorion Eguileor",
+          "slug": "zorion-eguileor",
+          "image": "zorion-eguileor.jpg",
+          "description": "Zorion Eguileor, Trimagasi karakterini canlandırarak hapishanede Goreng'in karşılaştığı yaşlı bir mahkumu oynamaktadır. 15 Ekim 1968'de İspanya'da doğan Eguileor, karakterinin derinliğini ve karamsarlığını başarılı bir şekilde yansıtmaktadır."
+        },
+        {
+          "name": "Antonia San Juan",
+          "slug": "antonia-san-juan",
+          "image": "antonia-san-juan.jpg",
+          "description": "Antonia San Juan, filmde Imoguiri karakterini canlandırmaktadır. 22 Mart 1961'de Las Palmas, İspanya'da doğan San Juan, oyunculuğunun yanı sıra yazarlık ve yönetmenlik de yapmaktadır."
+        },
+        {
+          "name": "Emilio Buale",
+          "slug": "emilio-buale",
+          "image": "emilio-buale.jpg",
+          "description": "Emilio Buale, filmde Baharat karakterini canlandırarak hapishanedeki diğer mahkumlarla etkileşimde bulunan bir figürdür. 20 Eylül 1970'te Ekvador'da doğan Buale, geniş bir oyunculuk kariyerine sahiptir."
+        }
+      ]
+    },
+    {
+      "name": "Açlık Oyunları",
+      "comments": [
+        { "user": "Katniss Everdeen", "text": "Hayatta kalmak için savaşmak zorundayız!" },
+        { "user": "Peeta Mellark", "text": "Birbirimize destek olmalıyız, yalnız değiliz." }
+      ],
+      "score": "7.2",
+      "slug": "aclik-oyunlari",
+      "image": "aclik-oyunlari.jpg",
+      "id": 9,
+      "description": "Açlık Oyunları, Gary Ross'un yönettiği ve 2012 yılında vizyona giren bir bilim kurgu-aksiyon filmidir. Suzanne Collins'in aynı adlı romanından uyarlanan film, distopik bir gelecekte, her yıl her bölgeden birer genç yarışmacının, hayatta kalmak için birbirleriyle savaştığı Açlık Oyunları'nı konu almaktadır. Katniss Everdeen (Jennifer Lawrence) ve Peeta Mellark (Josh Hutcherson), bu acımasız oyunlarda hayatta kalmaya çalışırken, aynı zamanda isyan tohumlarını da filizlendirmeye başlarlar. Film, güçlü karakterler, derin bir hikaye ve etkileyici görsel efektlerle izleyicileri etkisi altına alıyor.",
+      "actors": [
+        {
+          "name": "Jennifer Lawrence",
+          "slug": "jennifer-lawrence",
+          "image": "jennifer-lawrence.jpg",
+          "description": "Jennifer Lawrence, filmde Katniss Everdeen karakterini canlandırmaktadır. 15 Ağustos 1990'da Louisville, Kentucky, ABD'de doğan Lawrence, Oscar ödüllü bir oyuncu olarak kariyerinde birçok başarılı projeye imza atmıştır."
+        },
+        {
+          "name": "Josh Hutcherson",
+          "slug": "josh-hutcherson",
+          "image": "josh-hutcherson.jpg",
+          "description": "Josh Hutcherson, Peeta Mellark karakterini canlandırmaktadır. 12 Ekim 1992'de Union, Kentucky, ABD'de doğan Hutcherson, genç yaşta kariyerine başlamış ve birçok filmde önemli roller üstlenmiştir."
+        },
+        {
+          "name": "Woody Harrelson",
+          "slug": "woody-harrelson",
+          "image": "woody-harrelson.jpg",
+          "description": "Woody Harrelson, Haymitch Abernathy karakterini canlandırmaktadır. 23 Temmuz 1961'de Midland, Texas, ABD'de doğan Harrelson, farklı türlerdeki projelerdeki yeteneğiyle tanınmaktadır."
+        },
+        {
+          "name": "Elizabeth Banks",
+          "slug": "elizabeth-banks",
+          "image": "elizabeth-banks.jpg",
+          "description": "Elizabeth Banks, Effie Trinket karakterini canlandırmaktadır. 10 Şubat 1974'de Pittsfield, Massachusetts, ABD'de doğan Banks, hem oyuncu hem de yapımcı olarak kariyerinde çeşitli başarılı projelerde yer almıştır."
+        }
+      ]
+    },
+    {
+      "name": "Harry Potter",
+      "comments": [
+        { "user": "Harry Potter", "text": "Büyü dünyasına adım attım!" },
+        { "user": "Hermione Granger", "text": "Öğrenmek için sabırsızlanıyorum!" }
+      ],
+      "score": "7.6",
+      "slug": "harry-potter",
+      "image": "harry-potter.jpg",
+      "id": 10,
+      "description": "Harry Potter Felsefe Taşı, Chris Columbus'un yönettiği ve 2001 yılında vizyona giren bir fantastik filmidir. J.K. Rowling'in dünya çapında tanınan romanından uyarlanan film, Harry Potter'ın (Daniel Radcliffe) 11. doğum günüyle birlikte sihirli bir dünyanın kapılarını aralamasını anlatmaktadır. Hogwarts Cadılık ve Büyücülük Okulu'na kabul edilen Harry, burada dostları Ron Weasley (Rupert Grint) ve Hermione Granger (Emma Watson) ile birlikte büyülü bir maceraya atılır. Film, dostluğun, cesaretin ve iyiliğin önemini vurgulayan bir hikaye sunmaktadır.",
+      "actors": [
+        {
+          "name": "Daniel Radcliffe",
+          "slug": "daniel-radcliffe",
+          "image": "daniel-radcliffe.jpg",
+          "description": "Daniel Radcliffe, filmde Harry Potter karakterini canlandırmaktadır. 23 Temmuz 1989'da Londra, İngiltere'de doğan Radcliffe, bu ikonik rolle dünya çapında tanınmıştır."
+        },
+        {
+          "name": "Emma Watson",
+          "slug": "emma-watson",
+          "image": "emma-watson.jpg",
+          "description": "Emma Watson, Hermione Granger karakterini canlandırmaktadır. 15 Nisan 1990'da Paris, Fransa'da doğan Watson, genç yaşta başladığı kariyerinde birçok önemli projede yer almıştır."
+        },
+        {
+          "name": "Rupert Grint",
+          "slug": "rupert-grint",
+          "image": "rupert-grint.jpg",
+          "description": "Rupert Grint, Ron Weasley karakterini canlandırmaktadır. 24 Ağustos 1988'de Hertfordshire, İngiltere'de doğan Grint, Harry Potter serisindeki performansıyla tanınmaktadır."
+        },
+        {
+          "name": "Richard Harris",
+          "slug": "richard-harris",
+          "image": "richard-harris.jpg",
+          "description": "Richard Harris, Albus Dumbledore karakterini canlandırmaktadır. 1 Ekim 1930'da Limerick, İrlanda'da doğan Harris, kariyeri boyunca birçok unutulmaz rol üstlenmiştir."
+        }
+      ]
+    },
+    {
+      "name": "Yüzüklerin Efendisi",
+      "comments": [
+        { "user": "Frodo Baggins", "text": "Yüzüğü yok etme görevim başladı!" },
+        { "user": "Gandalf", "text": "Karanlık güçlere karşı birlikte durmalıyız!" }
+      ],
+      "score": "8.8",
+      "slug": "yuzuklerin-efendisi",
+      "image": "yuzuklerin-efendisi.jpg",
+      "id": 11,
+      "description": "Yüzüklerin Efendisi: Yüzük Kardeşliği, Peter Jackson'ın yönettiği ve 2001 yılında vizyona giren bir fantastik filmidir. J.R.R. Tolkien'in klasik romanından uyarlanan film, güçlü bir yüzüğün karanlık Lord Sauron'un eline geçmesini engellemek için bir araya gelen bir grup kahramanın maceralarını anlatmaktadır. Frodo Baggins (Elijah Wood), Gandalf (Ian McKellen), Arwen (Liv Tyler) ve Legolas (Orlando Bloom) gibi karakterler, yüzüğü yok etmek için tehlikeli bir yolculuğa çıkar. Film, dostluğun, cesaretin ve fedakarlığın önemini vurgulayan epik bir hikaye sunmaktadır.",
+      "actors": [
+        {
+          "name": "Elijah Wood",
+          "slug": "elijah-wood",
+          "image": "elijah-wood.jpg",
+          "description": "Elijah Wood, filmde Frodo Baggins karakterini canlandırmaktadır. 28 Ocak 1981'de Cedar Rapids, Iowa, ABD'de doğan Wood, bu rolüyle büyük bir üne kavuşmuştur."
+        },
+        {
+          "name": "Ian McKellen",
+          "slug": "ian-mckellen",
+          "image": "ian-mckellen.jpg",
+          "description": "Ian McKellen, Gandalf karakterini canlandırmaktadır. 25 Mayıs 1939'da Burnley, İngiltere'de doğan McKellen, tiyatro ve sinema alanındaki performanslarıyla tanınmaktadır."
+        },
+        {
+          "name": "Liv Tyler",
+          "slug": "liv-tyler",
+          "image": "liv-tyler.jpg",
+          "description": "Liv Tyler, Arwen karakterini canlandırmaktadır. 1 Temmuz 1977'de New York, ABD'de doğan Tyler, film kariyerinde birçok önemli projede yer almıştır."
+        },
+        {
+          "name": "Orlando Bloom",
+          "slug": "orlando-bloom",
+          "image": "orlando-bloom.jpg",
+          "description": "Orlando Bloom, Legolas karakterini canlandırmaktadır. 13 Ocak 1977'de Canterbury, İngiltere'de doğan Bloom, genç yaşta başladığı kariyerinde büyük başarılar elde etmiştir."
+        }
+      ]
+    },
+    {
+      "name": "Hızlı ve Öfkeli 6",
+      "comments": [
+        { "user": "Dominic Toretto", "text": "Aile her şeydir!" },
+        { "user": "Brian O'Conner", "text": "Hız ve adrenalin bir arada!" }
+      ],
+      "score": "7.1",
+      "slug": "hizli-ve-ofkeli-6",
+      "image": "hizli-ve-ofkeli-6.jpg",
+      "id": 12,
+      "description": "Hızlı ve Öfkeli 6, Justin Lin'in yönettiği ve 2013 yılında vizyona giren bir aksiyon filmidir. Film, Dominic Toretto (Vin Diesel) ve ekibinin, geçmişte karşılaştıkları düşmanla yüzleşmek için Londra'ya gidişini konu almaktadır. Hızlı ve öfkeli ekip, karanlık bir suç örgütüne karşı savaşa girerken, aynı zamanda aile bağlarını da güçlendirmektedir. Film, hız tutkunları için unutulmaz bir aksiyon deneyimi sunmaktadır.",
+      "actors": [
+        {
+          "name": "Vin Diesel",
+          "slug": "vin-diesel",
+          "image": "vin-diesel.jpg",
+          "description": "Vin Diesel, filmde Dominic Toretto karakterini canlandırmaktadır. 18 Temmuz 1967'de Alameda, Kaliforniya, ABD'de doğan Diesel, aksiyon filmlerinin vazgeçilmez isimlerinden biridir."
+        },
+        {
+          "name": "Paul Walker",
+          "slug": "paul-walker",
+          "image": "paul-walker.jpg",
+          "description": "Paul Walker, Brian O'Conner karakterini canlandırmaktadır. 12 Eylül 1973'te Glendale, Kaliforniya, ABD'de doğan Walker, bu rolüyle büyük bir hayran kitlesine ulaşmıştır."
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "slug": "michelle-rodriguez",
+          "image": "michelle-rodriguez.jpg",
+          "description": "Michelle Rodriguez, Letty Ortiz karakterini canlandırmaktadır. 12 Temmuz 1978'de San Antonio, Teksas, ABD'de doğan Rodriguez, aksiyon ve dram türündeki filmlerdeki rolleriyle tanınmaktadır."
+        },
+        {
+          "name": "Dwayne Johnson",
+          "slug": "dwayne-johnson",
+          "image": "dwayne-johnson.jpg",
+          "description": "Dwayne Johnson, Luke Hobbs karakterini canlandırmaktadır. 2 Mayıs 1972'de Hayward, Kaliforniya, ABD'de doğan Johnson, profesyonel güreş geçmişiyle sinema dünyasında da önemli bir yer edinmiştir."
+        }
+      ]
+    }
+    
+    
+    
+    
+    
+    
+    
+  ]
+}
