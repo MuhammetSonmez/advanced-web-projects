@@ -128,3 +128,28 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# === Django Specific Ignore ===
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Django logs
+*.log
+local_settings.py
+db.sqlite3
+
+# Static & Media files
+staticfiles/
+media/
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
