@@ -24,3 +24,5 @@ Bu repoda aşağıdaki projeler yer almaktadır:
 ## Katkıda Bulunma
 Projeye katkıda bulunmak için repoyu forklayarak pull request gönderebilirsiniz.
 
+## Not
+Bu projede kullanılan film ve ünlü görselleri yalnızca eğitim ve portföy genişletme amacıyla kullanılmıştır. Proje ticari bir amaç taşımamakta olup, telif hakkı sahiplerine saygı gösterilmektedir. Eğer bir hak ihlali söz konusuysa, ilgili içerik kaldırılabilir.
